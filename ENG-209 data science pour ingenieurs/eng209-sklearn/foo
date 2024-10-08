@@ -1,0 +1,6 @@
+import plotly.express as px
+
+df = df.reset_index()
+
+fig = px.scatter(df, x="petal width (cm)", y="petal length (cm)", color="index", hover_data=['petal width (cm)', 'petal length (cm)'])
+fig.show()
