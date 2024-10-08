@@ -1,8 +1,0 @@
-name: "base"
-channels:
-  - defaults
-dependencies:
-- numpy
-- pandas
-- matplotlib
-prefix: "/opt/conda"
