@@ -1,3 +1,0 @@
-data/carbosense-curated/CarboSense-October2017_curated.csv filter=lfs diff=lfs merge=lfs -text
-data/co2-emission/co-emissions-per-capita.csv filter=lfs diff=lfs merge=lfs -text
-data/countries-shp/ne_10m_admin_0_countries.zip filter=lfs diff=lfs merge=lfs -text
